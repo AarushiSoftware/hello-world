@@ -1,2 +1,3 @@
-# hello-world
-Testing
+int main() {
+   System.out.println("testing");
+}
